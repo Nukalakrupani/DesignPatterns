@@ -14,5 +14,4 @@ public class Creational_Factory_Pattern {
 		Shape square = shapeFactory.drawShape("Square");
 		square.draw();
 	}
-
 }
